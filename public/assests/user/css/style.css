@@ -161,12 +161,13 @@ img {
 	width: 100%;
 }
 #body.home div.header img {
+	background-color: white;
 	display: block;
 	left: 50%;
 	margin: 0 auto 0 -563px;
 	padding: 0;
 	position: absolute;
-	width: 1238px;
+	width: 1126px;
 }
 #body.home div.header div {
 	margin: 0 auto;

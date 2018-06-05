@@ -1,6 +1,6 @@
 <div id="body" class="home">
 			<div class="header">
-				<img src="/assests/user/images/mobil1.jpg" alt="">
+				<img src="/assests/user/images/mobil3.jpg" alt="">
 				<div>
 					<a href="product.html">Aman Terpercaya</a>
 				</div>
@@ -8,18 +8,19 @@
 			<div class="body">
 				<div>
 					<div>
-						<h1>NEW PRODUCT</h1>
-						<h2>The Twist of Healthy Yogurt</h2>
-						<p>This website template has been designed by freewebsitetemplates.com for you, for free. You can replace all this text with your own text.</p>
+						<h1>Rental Mobil Terpercaya</h1>
+						<h2>Ayo Kunjungi Kota Menarik</h2>
+						<p>Mau liburan tapi bingung mau pakai kendaraan apa? Tidak punya kendaraan sendiri di rumah? Tenang gaperlu cemas. Semua pertanyaan anda akan terjawab pada RENTAL MOBIL SOFTWARE</p>
 					</div>
-					<img src="/assests/user/images/yogurt.jpg" alt="">
+					<img src="/assests/user/images/mobil2.png" alt="">
 				</div>
 			</div>
+
 			<div class="footer">
 				<div>
 					<ul>
 						<li>
-							<a href="product.html" class="product"></a>
+							<a href="/assests/user/product.html" class="product"></a>
 							<h1>PRODUCTS</h1>
 						</li>
 						<li>

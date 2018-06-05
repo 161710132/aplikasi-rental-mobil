@@ -29,7 +29,8 @@
 			  		<div class="form-group {{ $errors->has('perseneling') ? ' has-error' : '' }}">
 			  			<label class="control-label">Perseneling</label>	
 			  			<input type="text" name="perseneling" class="form-control"  required>
-			  			@if ($errors->has('perseneling'))
+			  			@if ($e
+			  			rrors->has('perseneling'))
                             <span class="help-block">
                                 <strong>{{ $errors->first('perseneling') }}</strong>
                             </span>

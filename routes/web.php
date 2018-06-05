@@ -25,10 +25,10 @@ Route::resource('customer','CustomerController');
 Route::resource('supir','SupirController');
 Route::resource('pemesanan','PemesananController');
 
-Route::get('cek',function(){
+Route::get('admin',function(){
 	return view('layouts.admin');
 });
 
-Route::get('cek1',function(){
+Route::get('user',function(){
 	return view('layouts.user');
 });
